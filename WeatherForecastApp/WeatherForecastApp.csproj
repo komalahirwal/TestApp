@@ -6,8 +6,6 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>ddb8e988-2b9d-4c77-93cf-e5fe6b5311d7</UserSecretsId>
     <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
-    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
-    <Deterministic>False</Deterministic>
   </PropertyGroup>
 
   <ItemGroup>
